@@ -13,4 +13,4 @@
 
 - 参考[《git-简易指南》](http://www.bootcss.com/p/git-guide)
 
-- 理解Git远程仓库的概念，请参考[这篇文章](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)，不需要完成看懂，理解第一张图就可以了。
+- 理解Git远程仓库的概念，请参考[这篇文章](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)，不需要全部看懂，理解第一张图就可以了。
