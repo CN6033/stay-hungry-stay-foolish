@@ -1,4 +1,4 @@
-# 欢迎一起学编程
+# 一起学编程
 
 ## 基础课程
 - 计算机科学 - [可汗学院](http://v.163.com/special/Khan/cosmology.html)
