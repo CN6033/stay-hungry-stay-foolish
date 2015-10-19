@@ -3,7 +3,7 @@
 ## 基础课程
 - 计算机科学 - [可汗学院](http://v.163.com/special/Khan/cosmology.html)
 
-授课教师为著名的Khan老师，使用Python语来讲解编程最基本的方法和概念。
+授课教师为著名的Khan老师，使用Python编程语言来讲解编程最基本的方法和概念。
 
 > **注意：**在学习编程时，所有的示例代码要能运行起来，尽量保证结果正确。在Debug的过程中慢慢地熟悉所使用的编程语言和Debug技巧。同时，善用Google搜索引擎，[stackoverflow.com](stackoverflow.com)这个问答网站上基本上有你碰到的所有问题。
 
