@@ -3,12 +3,13 @@
 有如下几点感悟
 
 ## 一、有关源码组织
-java-apns库的主体功能代码在**com.notnoop.apns** package下，另外还有**com.notnoop.exceptions**这个package专门放置了所有异常的定义。
+java-apns库的主体功能代码在 **com.notnoop.apns** package下，另外 **com.notnoop.exceptions** 这个package保存了异常定义。
 
-其中，**com.notnoop.apns** 代码主要分为两部分。一部分是各种接口的定义，另一部分在 **internal** package下，功能的具体实现都属于这个部分。
+其中，**com.notnoop.apns** 代码主要分为两部分。一部分是接口的定义，另一部分在 **internal** package下，是功能的具体实现。
 
 ## 二、何如快速学习一个库所提供的所有功能
-在了解java-apns库的源码组织之后，想要快速了解它的功能就只要把apns库的所有接口定义看一遍，就基本能了解一个大概了。下面是java-apns库的所有接口：
+在了解java-apns库的源码组织之后，想要快速了解它的功能就只要把java-apns库的接口定义看一遍，就基本能了解一个大概了。下面是java-apns库的所有接口：
+
 - APNS
 
 > The main class to interact with the APNS Service. Provides an interface to create the ApnsServiceBuilder and ApnsNotification payload.（其实也就是一个辅助类）
