@@ -27,7 +27,7 @@ apns库的主体功能代码在**com.notnoop.apns** package下，另外还有**c
 
 - ApnsDelegate
 
-> 定义了当消息推送状态变更时的回掉接口。主要事件有messageSent、messageSendFailed、connectionClosed、cacheLengthExceeded和notificationsResent。
+> 定义了当消息推送状态变更时的回调（callback）接口。主要事件有messageSent、messageSendFailed、connectionClosed、cacheLengthExceeded和notificationsResent。
 
 - StartSendingApnsDelegate
 
