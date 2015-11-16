@@ -8,4 +8,4 @@
 
 - should be entirely immutable
 
-[ValueObject by Martin Fowler](http://martinfowler.com/bliki/ValueObject.html)
+Reference: [ValueObject by Martin Fowler](http://martinfowler.com/bliki/ValueObject.html)
