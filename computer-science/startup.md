@@ -1,7 +1,7 @@
 # 一起学编程
 
 ## 基础课程
-- 掌握计算机科学基础——计算机科学([可汗学院](http://v.163.com/special/Khan/cosmology.html))
+- 掌握计算机科学基础——计算机科学([可汗学院](http://open.163.com/special/Khan/computer.html))
 
 授课教师为著名的Khan老师，使用Python编程语言来讲解编程最基本的方法和概念。
 
