@@ -7,7 +7,7 @@
 请参考[该链接](https://www.digitalocean.com/community/tutorials/how-to-setup-your-own-vpn-with-pptp)
 
 ### 配置firewall规则
-我没有参照上面链接使用iptables作为防火墙，而是使用firewall。请执行如下命令进行配置：
+我没有使用iptables作为防火墙，而是使用firewall。请执行如下命令进行配置：
 ```
 firewall-cmd --permanent --direct --add-rule ipv4 filter INPUT 0 -p gre -j ACCEPT
 firewall-cmd --permanent --direct --add-rule ipv6 filter INPUT 0 -p gre -j ACCEPT
